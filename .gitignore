@@ -1,0 +1,8 @@
+.vscode
+.vs
+Data/*
+Data/
+obj/*
+obj/
+bin/*
+bin/
